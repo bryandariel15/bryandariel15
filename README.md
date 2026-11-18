@@ -78,7 +78,7 @@ Actualmente estoy construyendo y documentando proyectos personales y académicos
 <!-- CONTACTO -->
 ## 📫 Contacto
 
-- LinkedIn: [unsimpledev](https://linkedin.com/in/unsimpledev)
+- LinkedIn: [bryanrondon](https://www.linkedin.com/in/bryanrondon/)
 - Email: [bryandariel12@gmail.com](mailto:bryandariel12@gmail.com)
 
 ---
